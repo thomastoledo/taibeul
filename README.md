@@ -1,6 +1,6 @@
-# Tabulous
+# Taibeul
 
-A lightweight and powerful library for performing advanced operations on JavaScript arrays. Whether you need intersections, unions, differences, or optimized processing of large datasets, **`tabulous`** has you covered!
+A lightweight and powerful library for performing advanced operations on JavaScript arrays. Whether you need intersections, unions, differences, or optimized processing of large datasets, **`taibeul`** has you covered!
 
 ## Features
 
@@ -18,13 +18,13 @@ A lightweight and powerful library for performing advanced operations on JavaScr
 Install via `npm` or `yarn`:
 
 ```bash
-npm install tabulous
+npm install taibeul
 ```
 
 Or:
 
 ```bash
-yarn add tabulous
+yarn add taibeul
 ```
 
 ---
@@ -43,7 +43,7 @@ import {
   findBy,
   smartConcat,
   optimizedDifference
-} from 'tabulous';
+} from 'taibeul';
 ```
 
 ---

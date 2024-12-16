@@ -1,1 +1,1 @@
-export * from './tabulous';
+export * from './taibeul';

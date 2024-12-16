@@ -2,7 +2,7 @@
   "devDependencies": {
     "typescript": "^5.7.2"
   },
-  "name": "tabulous",
+  "name": "taibeul",
   "version": "0.0.1",
   "keywords": [
     "array",
@@ -11,19 +11,19 @@
     "utility",
     "typescript"
   ],
-  "description": "Tabulous is a micro-library to handle arrays",
+  "description": "Taibeul is a micro-library to handle arrays",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thomastoledo/Tabulous.git"
+    "url": "git+https://github.com/thomastoledo/Taibeul.git"
   },
   "author": "Thomas TOLEDO",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thomastoledo/Tabulous/issues"
+    "url": "https://github.com/thomastoledo/Taibeul/issues"
   },
-  "homepage": "https://github.com/thomastoledo/Tabulous#readme"
+  "homepage": "https://github.com/thomastoledo/Taibeul#readme"
 }
