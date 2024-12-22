@@ -1,18 +1,15 @@
 {
-    "compilerOptions": {
-      "target": "ESNext",                       
-      "module": "commonjs",                  
-      "outDir": "./dist",                     
-      "rootDir": "./",                        
-      "strict": true,                         
-      "esModuleInterop": true,                
-      "skipLibCheck": true                    
-    },
-    "include": [
-      "index.ts",
-      "taibeul.ts"                           
-    ],
-    "exclude": [
-      "node_modules"                          
-    ]
-  }
+  "compilerOptions": {
+    "target": "ES2015",
+    "strict": true,
+    "esModuleInterop": true,
+    "declaration": true,
+    "declarationMap": true,
+    "sourceMap": true,
+    "skipLibCheck": true,
+    "module": "ESNext",
+    "outDir": "./dist"
+  },
+  "include": ["src/**/*"],
+  "exclude": ["**/*.test.ts", "node_modules", "dist"]
+}
